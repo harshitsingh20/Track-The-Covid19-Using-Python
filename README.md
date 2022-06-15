@@ -1,4 +1,4 @@
-Hi there !!
+Hi there !
 
 This is the basic tracker of Covid19-Using-Python
 
